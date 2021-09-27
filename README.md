@@ -25,3 +25,10 @@
 
 ## API
 
+`SKYPACK_URL: string`: Equals the following: https://cdn.skypack.dev
+
+`isValidVersion(package_version: string): boolean`: Returns if Skypack will accept the passed package version.
+
+`isValidPackage(package_id: string): boolean`: Returns if Skypack will accept the passed package ID.
+
+`getSkypackUrl(package_id: string, minified = true): Promise<string>`: Returns the most optimal Skypack URL for a passed package ID, which is usually a [pinned URL](https://docs.skypack.dev/skypack-cdn/api-reference/pinned-urls-optimized). If the package ID is invalid, it will be returned.
