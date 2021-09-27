@@ -40,9 +40,14 @@
     "fix": "gts fix",
     "prepare": "pnpm compile",
     "pretest": "pnpm compile",
-    "posttest": "pnpm lint",
     "test": "pnpm lint && pnpm compile && jest",
+    "posttest": "pnpm lint",
     "release": "bumpp --commit --push --tag"
+  },
+  "dependencies": {
+    "@tropicalraisel/semver-regexp": "^1.1.5",
+    "got": "^11.8.2",
+    "typescript-logging": "^1.0.0"
   },
   "devDependencies": {
     "@skypack/package-check": "^0.2.2",

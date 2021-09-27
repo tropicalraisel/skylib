@@ -9,6 +9,9 @@
     <a href="https://www.npmjs.com/package/@tropicalraisel/skylib">
       <img alt="npm" src="https://img.shields.io/npm/v/@tropicalraisel/skylib?style=flat&logo=npm&label=npm&color=CB3837">
     </a>
+    <a href="https://github.com/google/gts">
+      <img alt="Google Badge" src="https://img.shields.io/static/v1?style=flat&logo=google&label=google&message=code%20style&color=4285F4">
+    </a>
     <a href="https://www.npmjs.com/package/@tropicalraisel/skylib">
       <img alt="npms.io" src="https://img.shields.io/npms-io/quality-score/@tropicalraisel/skylib?style=flat">
     </a>
