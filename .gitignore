@@ -1,0 +1,18 @@
+# General
+node_modules/
+*.db
+build/
+
+# npmignore
+.*.swp
+._*
+.DS_Store
+.git
+.hg
+#.npmrc
+.lock-wscript
+.svn
+.wafpickle-*
+config.gypi
+CVS
+*-debug.log
