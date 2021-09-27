@@ -1,6 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/tropicalraisel/skylib/master/.github/images/logo.svg" width="300">
-  <h1>skylib</h1>
+  <h1><img alt="Logo" src="https://raw.githubusercontent.com/tropicalraisel/skylib/master/.github/images/logo.svg" width="300">/ skylib</h1>
   <p>Skypack for all!</p>
   <hr>
   <p>Check out Skypack's <a href="https://docs.skypack.dev/#whats-old-is-new-again">official documentation</a>!</p>
